@@ -19,7 +19,7 @@ tradingview-ta==3.2.4
 typing-extensions==3.10.0.0
 tzlocal==2.1
 ujson==5.13.0
-urllib3==2.7.0
+urllib3==2.8.0
 websockets==9.1
 yarl<2.0
 numpy~=1.22.0
